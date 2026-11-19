@@ -1,0 +1,134 @@
+{
+  "park-slope": {
+    "descriptions": [
+      "Brownstone townhouses on quiet, tree-lined blocks, with Prospect Park at the end of the street and some of the city’s best schools.",
+      "Park Slope grew up in the late 1800s, when merchants built their homes along the edge of Prospect Park. The brownstones are still there: carved stoops, tall parlor-floor windows and original woodwork, on streets where the trees meet overhead.",
+      "The best homes are the full-house brownstones on the blocks nearest the park, with garden levels, working fireplaces and backyards. Prewar co-ops on Prospect Park West offer park views and high ceilings, and the newer condos along Fourth Avenue bring modern layouts for less.",
+      "Life here is easy and neighborly. Mornings start with a run around the park loop, Saturdays belong to the Grand Army Plaza farmers market, and evenings are spent in the restaurants and bars along Fifth and Seventh avenues. Several subway lines reach Manhattan in half an hour."
+    ],
+    "features": [],
+    "images": [
+      "park-slope-detail-1.jpg"
+    ]
+  },
+  "tribeca": {
+    "descriptions": [
+      "Cast-iron warehouses turned into loft homes, wide cobblestone streets and the Hudson waterfront, ten minutes from Wall Street by subway.",
+      "Tribeca has been where New Yorkers go for space and quiet since the old warehouses emptied out in the 1970s. The district kept its shape: loading docks, iron columns and streets wide enough to hold a farmers market.",
+      "The best homes are the full-floor lofts in converted cold-storage and mercantile buildings, with fifteen-foot ceilings, oversized windows and original beams. Newer boutique condo buildings sit between them, and the penthouses on the upper floors are some of the most sought-after in the city.",
+      "Life revolves around the neighborhood itself. Mornings start with a walk along the river in Hudson River Park, weekends belong to Washington Market Park and the restaurants on Greenwich Street, and every spring the film festival fills the streets. Many buyers come for the privacy and stay for good."
+    ],
+    "features": [],
+    "images": [
+      "tribeca-detail-1.jpg"
+    ]
+  },
+  "west-village": {
+    "descriptions": [
+      "Brick townhouses, crooked streets that ignore the grid and corner cafés on every block, a short walk from the Hudson.",
+      "The West Village has been where New Yorkers go for charm since the 1800s, and the neighborhood has kept its shape. Streets bend and cross at odd angles, buildings rarely rise above six floors, and the corner bakery is usually older than the people queuing at it.",
+      "The best homes are the townhouses on Bank, Perry and Charles streets, with original stoops, garden floors and working fireplaces. Prewar co-ops and small boutique condos fill the gaps, and a rare top-floor apartment can come with a private terrace.",
+      "Life happens on foot. Mornings start with coffee on Bleecker, afternoons drift through the shops on Hudson Street, and evenings end at a candlelit dinner or a jazz set. Hudson River Park is a five-minute walk. Few buyers leave once they’ve settled in."
+    ],
+    "features": [],
+    "images": [
+      "west-village-detail-1.jpg"
+    ]
+  },
+  "williamsburg": {
+    "descriptions": [
+      "Glass towers on the East River, converted factory lofts and a street scene that never really sleeps, ten minutes from Manhattan by ferry.",
+      "Williamsburg was a sugar refinery and factory district before artists moved into the empty buildings and turned it into the borough’s creative center. The brick warehouses stayed, the waterfront filled with new towers, and the neighborhood now holds both a lot of character and a lot of new construction.",
+      "The best homes are the condos in the waterfront towers along Kent Avenue, with floor-to-ceiling windows and skyline views across the river. Converted lofts around Bedford Avenue offer high ceilings and exposed brick, and the quieter streets to the east have wood-frame townhouses with small gardens.",
+      "Days are packed. Mornings begin at a corner bakery on Bedford, afternoons go to the record shops and the Saturday market at the waterfront, and evenings fill the rooftop bars and live music venues. The L train and the ferry both reach Manhattan in minutes."
+    ],
+    "features": [],
+    "images": [
+      "williamsburg-detail-1.jpg"
+    ]
+  },
+  "bank-street-townhouse": {
+    "descriptions": [
+      "Set on a quiet, tree-lined block of the West Village, this spacious 4-bedroom, 3-bathroom townhouse spreads over three floors of a restored 1890s brick row house. Original mantels and wide-plank floors sit alongside a renovated kitchen and a private garden at the back.",
+      "Professionally managed and move-in ready, the home is a short walk from Hudson River Park, the 1 train and the cafés and shops of Bleecker Street. Washington Square Park and the Meatpacking District are also within easy reach."
+    ],
+    "features": [
+      "Restored 1890s brick facade",
+      "Original marble mantels",
+      "Wide-plank oak floors",
+      "Renovated chef’s kitchen",
+      "Private rear garden",
+      "Primary suite with dressing room",
+      "Finished lower-level den",
+      "Private garage space"
+    ],
+    "images": [
+      "bank-street-townhouse-detail-1.jpg",
+      "bank-street-townhouse-detail-2.jpg",
+      "bank-street-townhouse-detail-3.jpg"
+    ]
+  },
+  "east-74th-street-villa": {
+    "descriptions": [
+      "Set on a quiet, tree-lined block of the Upper East Side, this grand 6-bedroom, 5-bathroom limestone villa rises over four floors, with a private landscaped garden and a two-car garage. High ceilings, a sweeping staircase and original plasterwork give the home the scale of a true estate.",
+      "Professionally managed and ready to move into, the home sits a short walk from Central Park, Madison Avenue’s boutiques and the 6 train. The Frick Collection and the Metropolitan Museum of Art are also close by."
+    ],
+    "features": [
+      "Limestone facade",
+      "Sweeping marble staircase",
+      "Private landscaped garden",
+      "Two-car garage",
+      "Elevator serving all floors",
+      "Chef’s kitchen with butler’s pantry",
+      "Wood-paneled library",
+      "Primary suite with private terrace"
+    ],
+    "images": [
+      "east-74th-street-villa-detail-1.jpg",
+      "east-74th-street-villa-detail-2.jpg",
+      "east-74th-street-villa-detail-3.jpg"
+    ]
+  },
+  "franklin-street": {
+    "descriptions": [
+      "Set in the heart of Tribeca, this spacious 2-bedroom, 2-bathroom loft on the 3rd floor of a converted 1912 warehouse pairs original character with everyday convenience. Twelve-foot ceilings, cast-iron columns and south-facing windows keep the main room bright all day.",
+      "Professionally managed, the building offers a video doorman and private storage, while daily essentials sit close by. The 1 train, Duane Park and the Tribeca Greenmarket are minutes away, with Hudson River Park’s waterfront paths just beyond."
+    ],
+    "features": [
+      "Twelve-foot ceilings",
+      "Original cast-iron columns",
+      "Oversized south-facing windows",
+      "Open chef’s kitchen",
+      "Primary suite with soaking tub",
+      "In-unit washer and dryer",
+      "Video doorman",
+      "Private storage room"
+    ],
+    "images": [
+      "franklin-street-detail-1.jpg",
+      "franklin-street-detail-2.jpg",
+      "franklin-street-detail-3.jpg"
+    ]
+  },
+  "west-18th-street-penthouse": {
+    "descriptions": [
+      "Crowning a boutique 2017 building in the heart of Chelsea, this stunning 3-bedroom, 3-bathroom duplex penthouse spans the 9th and 10th floors, with a private wraparound terrace and open skyline views. Floor-to-ceiling glass, a double-height living room and a sculptural staircase give the home a dramatic sense of space.",
+      "Professionally managed, the building offers a full-time doorman, a fitness room and one valet parking space with the unit. The High Line, Chelsea Market and the 1 train are a short walk away, with Hudson River Park just beyond."
+    ],
+    "features": [
+      "Private wraparound terrace",
+      "Double-height living room",
+      "Floor-to-ceiling glass walls",
+      "Sculptural floating staircase",
+      "Chef’s kitchen with a waterfall island",
+      "Primary suite with a dressing room",
+      "In-unit washer and dryer",
+      "Full-time doorman"
+    ],
+    "images": [
+      "west-18th-street-penthouse-detail-1.jpg",
+      "west-18th-street-penthouse-detail-2.jpg",
+      "west-18th-street-penthouse-detail-3.jpg"
+    ]
+  }
+}
